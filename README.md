@@ -10,3 +10,7 @@ Per eseguire il notebook su Google Colab occorre:
 3. modificare il notebook con i corretti riferimenti alla cartella di Google drive, creata al punto (1)
 4. modificare le credenziali di accesso all'istanza di MongoDB, creata al punto (2)
 
+Nelle cartella arcioli sono contenuti alcuni articoli sull'argomento
+
+
+
